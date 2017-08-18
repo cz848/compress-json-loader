@@ -1,0 +1,18 @@
+{
+  "dependencies": {},
+  "description": "compress json loader module for webpack",
+  "devDependencies": {
+    "standard-version": "^4.2.0"
+  },
+  "homepage": "https://github.com/cz848/compress-json-loader#readme",
+  "license": "MIT",
+  "name": "json-loader",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cz848/compress-json-loader.git"
+  },
+  "scripts": {
+    "release": "standard-version"
+  },
+  "version": "0.1.0"
+}
